@@ -1,7 +1,7 @@
 # R---Decision-Tree-Random-Forest
-R---Decision-Tree-Random-Forest
-This machine learning was carried out in July 2020 as part of college course work - Higher Diploma in Data Analytics at the National College of Ireland (NCIRL).
-An explanation of algorithms is provided in attached Project Overview PDF file. 
+R---Decision-Tree-Random-Forest. 
+This machine learning exercise was carried out in July 2020 as part of a college course work project - Higher Diploma in Data Analytics at the National College of Ireland (NCIRL) 2020/2021
+An explanation of algorithms is provided in attached "Project Overview PDF" file. 
 
 ## Getting Started
 First of all, the data can be download the from Kaggle: https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset but it is also included here as a csv file: "bank-additional-full.csv". 
