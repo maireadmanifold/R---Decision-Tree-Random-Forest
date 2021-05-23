@@ -8,10 +8,10 @@ First of all, the data can be download the from Kaggle: https://www.kaggle.com/v
  
 ## Prerequisites
 In order to run the code, the following libraries are required: 
-library(tidyverse)
-library(dplyr)
-library(ggplot2)
-library(ggthemes)
-library(mice)
-library(randomForest)
-library(scales)
+* library(tidyverse)
+* library(dplyr)
+* library(ggplot2)
+* library(ggthemes)
+* library(mice)
+* library(randomForest)
+* library(scales)
